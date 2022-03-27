@@ -1,6 +1,6 @@
 """class Notebook"""
 
-from note1 import Note
+from note import Note
 
 class Notebook(object):
     '''allows user to write into notebook'''
